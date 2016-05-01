@@ -1,0 +1,5 @@
+hrs=input("hrs")
+pay=input("Rate")
+tpay=float(pay)*float(hrs)
+print(tpay)
+print("checking Git")
